@@ -39,3 +39,4 @@ Indentation aware
 In contrast to the majority of other programming languages, Python uses indentation
 www.it-ebooks.info
 for marking code blocks instead of parentheses, brackets, or semicolons.
+Python can be used for any programming task, from GUI programming to web programming with everything else in between. It's quite efficient, as much of its activity is done at the C level. Python is just a layer on top of C.
